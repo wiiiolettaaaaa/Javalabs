@@ -10,8 +10,5 @@
         <module name="LabWork2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Lab2" target="22" />
-    </bytecodeTargetLevel>
   </component>
 </project>

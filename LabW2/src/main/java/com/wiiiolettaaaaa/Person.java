@@ -1,13 +1,11 @@
 package com.wiiiolettaaaaa;
 import java.util.Objects;
 
-class Person {
-    private String lastName;
-    private String firstName;
-    private int age;
+final class Person {
+    private final String lastName;
+    private final String firstName;
+    private final int age;
 
-    // Конструктори
-    public Person() {}
     public Person(String lastName, String firstName, int age) {
         this.lastName = lastName;
         this.firstName = firstName;

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Revert commit">
-      <change afterPath="$PROJECT_DIR$/LabW2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabW2/src/test/java/com/wiiiolettaaaaa/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 2: Task 1 , added code">
+      <change beforePath="$PROJECT_DIR$/Lab1/src/main/java/com/wioletta/PerfectNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/main/java/com/wioletta/PerfectNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/src/test/java/com/wiiiolettaaaaa/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabW2/src/test/java/com/wiiiolettaaaaa/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "JUnit.PerfectNumbersTest.executor": "Run",
+    "JUnit.PersonTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -54,6 +55,28 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabW2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wiiiolettaaaaa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wiiiolettaaaaa" />
+      <option name="MAIN_CLASS_NAME" value="com.wiiiolettaaaaa.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758654657368</updated>
-      <workItem from="1758654659179" duration="708000" />
+      <workItem from="1758654659179" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="Revert commit">
       <option name="closed" value="true" />
@@ -72,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758654973693</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab 2: Task 1 , added code">
+      <option name="closed" value="true" />
+      <created>1758655460339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758655460339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert commit" />
+    <MESSAGE value="Lab 2: Task 1 , added code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 2: Task 1 , added code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -89,11 +121,6 @@
           <url>file://$PROJECT_DIR$/Lab2/src/main/java/com/wiiiolettaaaaa/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

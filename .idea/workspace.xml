@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 2: Task 1 , added code">
-      <change beforePath="$PROJECT_DIR$/Lab1/src/main/java/com/wioletta/PerfectNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/main/java/com/wioletta/PerfectNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabW2/src/test/java/com/wiiiolettaaaaa/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabW2/src/test/java/com/wiiiolettaaaaa/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/src/main/java/com/wiiiolettaaaaa/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/src/test/java/com/wiiiolettaaaaa/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/target/classes/com/wiiiolettaaaaa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/target/classes/com/wiiiolettaaaaa/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabW2/target/test-classes/com/wiiiolettaaaaa/PersonTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +40,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3374DLh2Y1QOFm4ZHUfTtHXCg3n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +56,7 @@
     "JUnit.PersonTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-22",
     "kotlin-language-version-configured": "true",
@@ -51,10 +65,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/LabW2/src/main/java/com/wiiiolettaaaaa/Main.java",
+    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Lab3/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lab3/src/main/java/org/wioletta" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabW2" />
@@ -86,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758654657368</updated>
       <workItem from="1758654659179" duration="1038000" />
+      <workItem from="1759869832851" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="Revert commit">
       <option name="closed" value="true" />
@@ -121,6 +144,11 @@
           <url>file://$PROJECT_DIR$/Lab2/src/main/java/com/wiiiolettaaaaa/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab1/LabW3/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

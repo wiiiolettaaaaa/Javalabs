@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 3: Task 3.1">
-      <change afterPath="$PROJECT_DIR$/Lab4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/passengers/Firefighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/passengers/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/passengers/Policeman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/road/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/vehicles/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/vehicles/FirefighterCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/vehicles/PoliceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/vehicles/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/vehicles/Vehicle.java" afterDir="false" />
+    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 4: Finished">
+      <change afterPath="$PROJECT_DIR$/Lab5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task1/MaxWordsLineFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/CharacterEncryptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/Decryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/Encryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task4/TagFrequencyCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -26,6 +20,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,10 +65,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/Lab4/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/Lab5/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,7 +115,7 @@
       <workItem from="1760471539325" duration="209000" />
       <workItem from="1760471967807" duration="105000" />
       <workItem from="1760472318981" duration="669000" />
-      <workItem from="1761072567343" duration="867000" />
+      <workItem from="1761072567343" duration="2461000" />
     </task>
     <task id="LOCAL-00001" summary="Revert commit">
       <option name="closed" value="true" />
@@ -159,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759871777096</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab 4: Finished">
+      <option name="closed" value="true" />
+      <created>1761073797829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761073797829</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +177,8 @@
     <MESSAGE value="Lab 3: Task 3.1 , added code and tests" />
     <MESSAGE value="Lab 2:" />
     <MESSAGE value="Lab 3: Task 3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 3: Task 3.1" />
+    <MESSAGE value="Lab 4: Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 4: Finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

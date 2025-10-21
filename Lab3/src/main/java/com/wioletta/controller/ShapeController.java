@@ -41,7 +41,7 @@ public class ShapeController {
             if (loadedShapes != null) {
                 model = new ShapeModel(loadedShapes.length);
                 System.arraycopy(loadedShapes, 0, model.getShapes(), 0, loadedShapes.length);
-                view.displayMessage("Shapes loaded successfully.");
+                view.displayMessage("Shapes  loaded successfully.");
                 view.displayShapes(loadedShapes);
             } else {
                 view.displayMessage("Failed to load shapes.");

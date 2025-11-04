@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 4: Finished">
-      <change afterPath="$PROJECT_DIR$/Lab5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task1/MaxWordsLineFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/CharacterEncryptionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/Decryptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/Encryptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task4/TagFrequencyCounter.java" afterDir="false" />
+    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 5: Finished">
+      <change afterPath="$PROJECT_DIR$/Lab6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/src/main/java/com/wioletta/Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/src/test/java/com/wioletta/TranslatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/target/classes/com/wioletta/PerfectNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/target/classes/com/wioletta/PerfectNumbers.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +48,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CharacterEncryptionApp.executor": "Run",
     "Application.Main.executor": "Run",
     "JUnit.PerfectNumbersTest.executor": "Run",
     "JUnit.PersonTest.executor": "Run",
     "JUnit.ShapeModelTest.executor": "Run",
+    "JUnit.TranslatorTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -65,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/Lab5/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/Lab6/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -115,7 +115,9 @@
       <workItem from="1760471539325" duration="209000" />
       <workItem from="1760471967807" duration="105000" />
       <workItem from="1760472318981" duration="669000" />
-      <workItem from="1761072567343" duration="2461000" />
+      <workItem from="1761072567343" duration="2867000" />
+      <workItem from="1761088910549" duration="6567000" />
+      <workItem from="1762285009339" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Revert commit">
       <option name="closed" value="true" />
@@ -165,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761073797829</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lab 5: Finished">
+      <option name="closed" value="true" />
+      <created>1761088860699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761088860699</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lab 5: Finished">
+      <option name="closed" value="true" />
+      <created>1761088986609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761088986609</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +196,8 @@
     <MESSAGE value="Lab 2:" />
     <MESSAGE value="Lab 3: Task 3.1" />
     <MESSAGE value="Lab 4: Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 4: Finished" />
+    <MESSAGE value="Lab 5: Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5: Finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -194,7 +213,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Lab4/src/main/java/com/wioletta/Main.java</url>
+          <url>file://$PROJECT_DIR$/Lab6/src/main/java/com/wioletta/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>

@@ -1,4 +1,4 @@
-package org.example.Task3;
+package org.wioletta.Task3;
 
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;

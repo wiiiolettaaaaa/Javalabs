@@ -1,4 +1,4 @@
-package org.example.Task1;
+package org.wioletta.Task1;
 
 import java.util.Scanner;
 import java.io.BufferedReader;

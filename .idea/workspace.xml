@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab 7: Finished">
-      <change afterPath="$PROJECT_DIR$/Lab7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/src/test/java/com/wioletta/PerfectNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/main/java/com/wioletta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/main/java/com/wioletta/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab11/src/main/java/com/wioletta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab11/src/main/java/com/wioletta/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task1/MaxWordsLineFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/wioletta/Task1/MaxWordsLineFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/CharacterEncryptionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/wioletta/Task3/CharacterEncryptionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/Decryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/wioletta/Task3/Decryptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task3/Encryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/wioletta/Task3/Encryptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/src/main/java/org/example/Task4/TagFrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/src/main/java/org/wioletta/Task4/TagFrequencyCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/src/main/java/com/wioletta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/src/main/java/com/wioletta/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/Lab8/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "/Users/wioletta/IdeaProjects/Javalabs/Lab11/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -75,6 +84,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab7" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../Lab3/src/main/java/org/wioletta" />
     </key>
@@ -118,7 +128,9 @@
       <workItem from="1761072567343" duration="2867000" />
       <workItem from="1761088910549" duration="6567000" />
       <workItem from="1762285009339" duration="906000" />
-      <workItem from="1762330541220" duration="378000" />
+      <workItem from="1762330541220" duration="953000" />
+      <workItem from="1762332292242" duration="3291000" />
+      <workItem from="1764006383764" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="Revert commit">
       <option name="closed" value="true" />
@@ -192,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762285813894</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lab 7: Finished">
+      <option name="closed" value="true" />
+      <created>1762331124153</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762331124153</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +227,8 @@
     <MESSAGE value="Lab 4: Finished" />
     <MESSAGE value="Lab 5: Finished" />
     <MESSAGE value="Lab 6: Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 6: Finished" />
+    <MESSAGE value="Lab 7: Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 7: Finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -223,14 +244,24 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Lab7/src/main/java/org/example/Main.java</url>
+          <url>file://$PROJECT_DIR$/Lab8/src/main/java/com/wioletta/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Lab8/src/main/java/com/wioletta/PerfectNumbers.java</url>
+          <url>file://$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab10/src/main/java/com/wioletta/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab11/src/main/java/com/wioletta/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

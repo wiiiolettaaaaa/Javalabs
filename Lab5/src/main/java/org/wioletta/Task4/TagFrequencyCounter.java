@@ -1,4 +1,4 @@
-package org.example.Task4;
+package org.wioletta.Task4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

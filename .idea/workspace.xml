@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab8: finished">
-      <change afterPath="$PROJECT_DIR$/Lab10/pom.xml" afterDir="false" />
+    <list default="true" id="e7200978-4636-4aab-8bf0-41332effc6e7" name="Changes" comment="Lab10: finished">
       <change afterPath="$PROJECT_DIR$/Lab11/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task1/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task2/CircularBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task2/Conveyor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task2/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/main/java/com/wioletta/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/main/java/com/wioletta/DatabaseQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +66,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/wioletta/IdeaProjects/Javalabs/Lab11/src/main/java/org/example/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -79,6 +74,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta" />
+      <recent name="$PROJECT_DIR$/Lab9/src/main/java/com/wioletta/task1" />
       <recent name="$PROJECT_DIR$/Lab7" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../Lab3/src/main/java/org/wioletta" />
@@ -126,7 +123,11 @@
       <workItem from="1762330541220" duration="953000" />
       <workItem from="1762332292242" duration="3291000" />
       <workItem from="1764006383764" duration="362000" />
-      <workItem from="1764009880956" duration="1180000" />
+      <workItem from="1764009880956" duration="2232000" />
+      <workItem from="1764012134413" duration="636000" />
+      <workItem from="1764012812146" duration="64000" />
+      <workItem from="1764750104403" duration="1429000" />
+      <workItem from="1764978193705" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="Revert commit">
       <option name="closed" value="true" />
@@ -224,7 +225,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764010689133</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lab9: finished">
+      <option name="closed" value="true" />
+      <created>1764011326503</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764011326503</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Lab10: finished">
+      <option name="closed" value="true" />
+      <created>1764012846763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764012846763</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +259,9 @@
     <MESSAGE value="Lab 7: Finished" />
     <MESSAGE value="Correction" />
     <MESSAGE value="Lab8: finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab8: finished" />
+    <MESSAGE value="Lab9: finished" />
+    <MESSAGE value="Lab10: finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab10: finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -258,13 +277,8 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Lab10/src/main/java/com/wioletta/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Lab11/src/main/java/com/wioletta/Main.java</url>
-          <line>13</line>
+          <line>51</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
